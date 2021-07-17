@@ -45,7 +45,7 @@ async function handleRequest(request) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
-    <title>Bhadoo Drive Index - Beta</title>
+    <title>EVArchive Drive Index - Beta</title>
     <link rel="icon" type="image/x-icon" href="https://www.cloudflare.com/favicon.ico"/>
     <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.0.0/dist/slate/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
@@ -284,7 +284,7 @@ async function handleRequest(request) {
 <body">
 <div class="container">
     <br><br>
-    <a href="https://www.npmjs.com/package/@googledrive/index"><h3>Bhadoo Index Generator - Beta</h3></a>
+    <a href="https://github.com/harveypaulsenc08/GDIndex"><h3>EVArchive Index Generator - Beta</h3></a>
     <br>
         <div>
             <h3>1. <a
@@ -319,7 +319,7 @@ async function handleRequest(request) {
     <div class="overflow-auto" style="background-color:#000;">
         <pre class="snippet"><code class="html js">${codeJS}</code></pre>
     </div>
-    <center><p>© <span id="year"></span> - Bhadoo Cloud Cyber Systems</p></center>
+    <center><p>© <span id="year"></span> - EVArchive</p></center>
 </div>
 
 <script>
