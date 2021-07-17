@@ -319,7 +319,7 @@ async function handleRequest(request) {
     <div class="overflow-auto" style="background-color:#000;">
         <pre class="snippet"><code class="html js">${codeJS}</code></pre>
     </div>
-    <center><p>© <span id="year"></span> - EVArchive</p></center>
+    <center><p>© <span id="year"></span> - EVArchive Index</p></center>
 </div>
 
 <script>
